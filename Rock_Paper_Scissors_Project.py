@@ -1,5 +1,5 @@
 #Project:  [Rock, Paper, Scissors]
-from ctypes import windll
+# from ctypes import windll
 
 #Rule:
      #Rock wins against Scissors
@@ -45,7 +45,7 @@ st.markdown(
     <style>
     /* Background gradient */
     .stApp {
-        background: linear-gradient(135deg, #FFDEE9, #B5FFFC);
+        background:  linear-gradient(135deg, #FFB6C1, #87CEFA); 
     }
 
     /* Center title */
