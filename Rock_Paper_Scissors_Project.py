@@ -1,5 +1,5 @@
 #Project:  [Rock, Paper, Scissors]
-# from ctypes import windll
+
 
 #Rule:
      #Rock wins against Scissors
